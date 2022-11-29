@@ -21,7 +21,7 @@ WHATSAPP: 41 99999999
 
 BOLOS
 
-[image](https://user-images.githubusercontent.com/114512203/204632764-d989ca89-d185-4b3b-8302-7e93c75b7511.png)
+![image](https://user-images.githubusercontent.com/114512203/204635132-5eff7a55-c894-46f6-839c-3dba3a142d6a.png)
 
 
 PÃES
